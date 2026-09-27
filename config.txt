@@ -1,0 +1,5 @@
+master.xusa
+/my-assets
+https://dash.smartxhub.cloud
+C:/Users/jaderson.moreira/Desktop/Fotos_smartxhub
+pt
